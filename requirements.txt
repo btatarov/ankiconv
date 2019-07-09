@@ -1,0 +1,15 @@
+appdirs==1.4.3
+cached-property==1.5.1
+certifi==2019.6.16
+chardet==3.0.4
+frozendict==1.2
+genanki==0.7.0
+google-speech==1.1.0
+idna==2.8
+pystache==0.5.4
+python-slugify==3.0.2
+PyYAML==5.1.1
+requests==2.22.0
+text-unidecode==1.2
+urllib3==1.25.3
+web-cache==1.1.0
