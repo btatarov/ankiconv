@@ -11,5 +11,5 @@ python-slugify==3.0.2
 PyYAML==5.1.1
 requests==2.22.0
 text-unidecode==1.2
-urllib3==1.25.3
+urllib3==1.26.5
 web-cache==1.1.0
